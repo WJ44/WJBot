@@ -5,9 +5,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created 04-01-2019
- * @author Wesley Joosten
- *
+ * Part of WJBot.
+ * Created by Wesley Joosten on 04/01/2019
  */
 public class Message {
 	
